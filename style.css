@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+.firstSquare {
+    position: absolute;
+    top: 100px;
+    background-color: rgb(241, 181, 132);
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.secondSquare {
+    position:absolute;
+    top: 100px;
+    left: 100px;
+    background-color: rgba(201, 154, 153, 80%);
+}
+
+.thirdSquare {
+    margin-top: 30px;
+    transform: translate(420px, 0px);
+    background-color: rgb(241, 181, 132);
+}
+
+.fourthSquare {
+    transform: translate(50%, 50%);
+    background-color: rgba(201, 154, 153, 80%);
+}
+
+.square {
+    border-radius: 15%;
+    border: 8px double rgb(0, 0, 0);
+    height: 200px;
+    width: 200px;
+}
