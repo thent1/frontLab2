@@ -29,10 +29,6 @@
     width: 200px;
 }
 
-.tableContainer {
-    box-sizing: border-box;
-}
-
 .squaresContainer {
     margin-top: 30px;
     box-sizing: border-box;
